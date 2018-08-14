@@ -1,1 +1,2 @@
-print("Hello World")
+# It just have to be "Hello"
+print("Hello")
