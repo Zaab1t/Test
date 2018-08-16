@@ -1,2 +1,2 @@
-# It just have to be "Hello"
+# It just has to be "Hello"
 print("Hello")
